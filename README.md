@@ -28,6 +28,7 @@ I am a passionate B.E CS student at KLE INSTITUTE OF TECHNOLOGY, driven by a cur
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/gagan-nadiger-606781256)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gagan-nadiger-606781256)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
