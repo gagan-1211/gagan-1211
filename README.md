@@ -13,14 +13,14 @@ I am a passionate B.E CS student at KLE INSTITUTE OF TECHNOLOGY, driven by a cur
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-  - Analyzing data using Python libraries like Pandas and NumPy for insightful decision-making.
+- Delving into Data Structures and Algorithms to solve complex problems.
+- Mastering Object-Oriented Programming (OOP) with C++ and Java.
+- Working with SQL for efficient database management.
+- Studying Operating Systems and Computer Networks.
+- Building web applications with HTML, CSS, and JavaScript.
+- Analyzing data using Python libraries like Pandas and NumPy.
+- Learning Software Engineering principles for effective software development.
+- Analyzing data using Python libraries like Pandas and NumPy for insightful decision-making.
 
 ## 🏆 Achievements
 
